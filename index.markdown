@@ -4,10 +4,9 @@
 
 layout: home
 ---
-* 80/20.
-* Something new, [reading](https://www.goodreads.com/user/show/115944140-alex-ker) & writing.
-* Founded and currently chairing [P-ai](https://www.p-ai.org/), a modern incubator for AI projects and ideas.
-* I'm part of a few fellowship communities, including: 8VC, Bessemer Venture Partners, Contrary.
+* Currently Something New, and [reading](https://www.goodreads.com/user/show/115944140-alex-ker) a bit too much.
+* Founded and currently chairing [P-ai](https://www.p-ai.org/), a modern incubator for AI, where I hired & managed 35+ technical projects.
+* Part of a few fellowship communities, including: [8VC](https://www.8vc.com/fellowship), [Bessemer Venture Partners](https://www.bvp.com/news/bessemers-2021-fellowship-class), [Contrary](https://contrary.com/fellowship).
 * Previously, I was involved in engineering, community-building, VC.
 * Start-up Investing at
     * [Bloomberg Beta](https://www.bloombergbeta.com/)
@@ -19,4 +18,6 @@ layout: home
     * [MIT CoCoSci](https://cocosci.mit.edu)
     * [CityU HK](https://www.cityu.edu.hk).
 * Writing and Editor at [Stanford HAI](https://hai.stanford.edu).
-* I like to be helpful to student entrepreneurs or people working on eccentric projects. Please feel free to reach out: alex@marct.ai
+* Designing curriculum and coordinating creative writing program at [Uncommon Good](https://uncommongood.org).
+* Leading Office Hours in online courses like: [MIT6.001x](https://www.edx.org/course/introduction-to-computer-science-and-programming-7).
+* I like to be helpful to students, underrepresented founders, folks working on eccentric projects in frontier or niche industries. Please feel free to reach out: **alex@marct.ai**

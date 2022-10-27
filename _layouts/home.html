@@ -7,8 +7,10 @@ layout: default
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
 
+  <div class="code" style="max-width:600px;">
   {{ content }}
-
+  </div>
+  
   {%- if site.posts.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title | default: "Writing" }}</h2>
     <ul class="post-list">
