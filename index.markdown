@@ -5,9 +5,9 @@
 layout: home
 ---
 * Currently Something New, and [reading](https://www.goodreads.com/user/show/115944140-alex-ker) a bit too much.
-* Founded and currently chairing [P-ai](https://www.p-ai.org/), a modern incubator for AI, where I hired & managed 35+ technical projects.
-* Part of a few fellowship communities, including: [8VC](https://www.8vc.com/fellowship), [Bessemer Venture Partners](https://www.bvp.com/news/bessemers-2021-fellowship-class), [Contrary](https://contrary.com/fellowship).
-* Previously, I was involved in engineering, community-building, VC.
+* Founded and now chairing [P-ai](https://www.p-ai.org/), a modern incubator for AI, where I hired & managed 35+ technical projects.
+* Part of a few fellowship, including: [8VC](https://www.8vc.com/fellowship), [Bessemer Venture Partners](https://www.bvp.com/news/bessemers-2021-fellowship-class), [Contrary](https://contrary.com/fellowship).
+* Previously, I was involved in engineering, community building, venture capital.
 * Start-up Investing at
     * [Bloomberg Beta](https://www.bloombergbeta.com/)
     * [Unshackled Ventures](https://www.unshackledvc.com).
