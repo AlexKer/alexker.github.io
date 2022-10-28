@@ -24,4 +24,19 @@ layout: default
   {%- endif -%}
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+
+  <div id="content">
+    <div class="page-navigation code">
+      {% if page.next.url %}
+      <a class="next" href="{{page.next.url}}"> &lt;&lt;</a>
+      {% endif %}
+      <span> · </span>
+      <a class="home" href="https://alexker.com/">alexker.com</a>
+      <span> · </span>
+      {% if page.previous.url %}
+      <a class="previous" href="{{page.previous.url}}">&gt;&gt; </a>
+      {% endif %}
+    </div>
+  </div>
+
 </article>
