@@ -11,7 +11,7 @@ Exhuming and reviving the would-be corpuses of books in clustered shelves under 
 
 Locating a book in the stacks of the library or an indie neighbourhood store takes time—the extensive acquisition process means you’re more likely to actually read what you get, as humans appreciate things that are harder to come by. Take advantage of this mechanic and avoid purposing books into sophisticated tabletop decor to impress guests, or a Zoom background that displays your apparent intellectual prowess (you deserve to do so only if you’ve read the book). Use the friction and organized chaos of used bookstores as a propellant to clear your reading list. 
 
-The time between you desiring a book and you getting a copy builds also wholesome anticipation. Release it by consuming that long-awaited story in one sitting, or in a 24 hour readathon.
+The time between you desiring a book and you getting a copy builds wholesome anticipation. Release it by consuming that long-awaited story in one sitting, or in a 24 hour readathon.
 
 The exploitation and exploration strategy can also be readily applied in independent, local secondhand book shopping. In reinforcement learning, the exploitation means you take the optimal move according to a defined policy, while exploration means that you introduce a degree of randomness into learning to prevent yourself from being stuck in a local optimum. Balancing between exploitation and exploration is aligned with the nature of used bookstores. You might find what you came for, but you will accidentally see titles outside your preferred authors or genres, which is not the case in cleanly sectioned Barnes and Nobles. 
 
